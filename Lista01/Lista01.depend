@@ -1,5 +1,195 @@
 # depslib dependency file v1.0
-1584205420 source:c:\users\gabri\documents\aed2\lista01\main.c
+1682114869 source:c:\users\gabri\documents\aed2\lista01\main.c
 	<stdio.h>
 	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
+1682040266 c:\users\gabri\documents\aed2\lista01\questao01.h
+
+1682040066 source:c:\users\gabri\documents\aed2\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682040266 source:c:\users\gabri\documents\aed2\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1682040266 c:\users\gabri\documents\aed2\lista01\questao02.h
+
+1682041946 source:c:\users\gabri\documents\aed2\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao03.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao04.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao05.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao06.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao07.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao08.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao09.h
+
+1682040857 source:c:\users\gabri\documents\aed2\lista01\questao10.c
+	<stdio.h>
+	<stdlib.h>
+	"questao10.h"
+
+1682040857 c:\users\gabri\documents\aed2\lista01\questao10.h
+
+1682041440 source:c:\users\gabri\documents\aed2\lista01\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"questao15.h"
+
+1682041440 c:\users\gabri\documents\aed2\lista01\questao15.h
+
+1682041946 source:c:\users\gabri\documents\aed2\lista01\questao11.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"questao11.h"
+
+1682041440 c:\users\gabri\documents\aed2\lista01\questao11.h
+
+1682041440 source:c:\users\gabri\documents\aed2\lista01\questao12.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"questao12.h"
+
+1682041440 c:\users\gabri\documents\aed2\lista01\questao12.h
+
+1682041440 source:c:\users\gabri\documents\aed2\lista01\questao13.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"questao13.h"
+
+1682041440 c:\users\gabri\documents\aed2\lista01\questao13.h
+
+1682041440 source:c:\users\gabri\documents\aed2\lista01\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"questao14.h"
+
+1682041440 c:\users\gabri\documents\aed2\lista01\questao14.h
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"questao17.h"
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao17.h
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao18.h
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao19.h
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao20.h
+
+1682114008 source:c:\users\gabri\documents\aed2\lista01\questao21.c
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao22.h"
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao22.h
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao23.c
+	<stdio.h>
+	"questao23.h"
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao23.h
+
+1682114548 source:c:\users\gabri\documents\aed2\lista01\questao16.c
+	<stdio.h>
+	<stdlib.h>
+	"questao16.h"
+
+1682114569 c:\users\gabri\documents\aed2\lista01\questao16.h
+
+1682114663 source:c:\users\gabri\documents\aed2\lista01\questao24.c
+	<stdio.h>
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao21.h
+
+1682114548 c:\users\gabri\documents\aed2\lista01\questao24.h
 
