@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1684807765 source:c:\users\gabri\documents\aed2\lista02 part 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mergeSort.h"
+	"quickSort.h"
+
+1684807764 c:\users\gabri\documents\aed2\lista02 part 2\mergesort.h
+
+1684807765 c:\users\gabri\documents\aed2\lista02 part 2\quicksort.h
+
+1684807794 source:c:\users\gabri\documents\aed2\lista02 part 2\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1684807784 source:c:\users\gabri\documents\aed2\lista02 part 2\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
